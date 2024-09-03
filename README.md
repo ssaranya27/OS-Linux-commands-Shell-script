@@ -448,6 +448,7 @@ stop
 
 cat herecheck.txt
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/33544df3-9f99-49f6-9a8b-09bef54777cd)
 
 
 cat < scriptest.sh 
@@ -486,13 +487,17 @@ chmod 777 scriptest.sh
 ./scriptest.sh 1 2 3
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/a91195d5-4fad-4f7d-9c50-41c46561cfc7)
 
  
 ls file1
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/e9ed8e76-e12a-4b8a-a613-f1d10c631853)
 
 echo $?
 ## OUTPUT 
+![image](https://github.com/user-attachments/assets/d5b343c6-93a1-4c74-949a-371e8ec62821)
+
 ./one
 bash: ./one: Permission denied
  
