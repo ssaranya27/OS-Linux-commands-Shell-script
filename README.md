@@ -1022,15 +1022,6 @@ else
 echo "Usage: badtest1 a b"
 fi
 ```
-## OUTPUT
- ./funcex.sh 
-
- 
- ./funcex.sh 1 2
-
- 
-cat argshift.sh
-```bash
 #!/bin/bash 
  while (( "$#" )); do 
   echo $1 
@@ -1100,8 +1091,6 @@ obcdfghj
 bcdfghj
 ubcdfghj
 ```
-awk -f nc.awk data.dat
-## OUTPUT 
  
 cat > palindrome.sh
 ```bash
@@ -1128,8 +1117,5 @@ else
 	echo "Number is NOT palindrome"
 fi
 ```
-## OUTPUT 
-
-
 # RESULT:
 The Commands are executed successfully.
